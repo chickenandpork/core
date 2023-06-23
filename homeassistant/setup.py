@@ -234,7 +234,7 @@ async def _async_setup_component(
     ):
         _LOGGER.error(
             (
-                "The %s integration does not support YAML setup, please remove it from "
+                "The %s integration (setup.py @237) does not support YAML setup, please remove it from "
                 "your configuration"
             ),
             domain,

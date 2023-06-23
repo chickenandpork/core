@@ -325,6 +325,7 @@ FLOWS = {
         "openuv",
         "openweathermap",
         "oralb",
+        "osbee",
         "otbr",
         "overkiz",
         "ovo_energy",
